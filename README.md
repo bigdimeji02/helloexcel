@@ -27,7 +27,7 @@ An interactive **Excel-based dashboard** for analyzing HR data of current and fo
 
 ## 📸 Screenshots
 ### Dashboard Overview
-
+https://drive.google.com/drive/folders/1M2kyILBw8qTw8cJqmiMPBkeLYFsw9x3i?usp=drive_link
 ---
 
 ## 🏁 Getting Started
