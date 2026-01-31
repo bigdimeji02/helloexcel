@@ -19,12 +19,6 @@ An interactive **Excel-based dashboard** for analyzing HR data of current and fo
 
 ---
 
-## 📂 Repository Contents
-- `project phoenix.xlsx` → Main dashboard file  
-- `screenshots/` → Folder containing dashboard preview images  
-
----
-
 ### Dashboard Overview
 [https://drive.google.com/drive/folders/1M2kyILBw8qTw8cJqmiMPBkeLYFsw9x3i?usp=drive_link](https://drive.google.com/drive/folders/1M2kyILBw8qTw8cJqmiMPBkeLYFsw9x3i?usp=drive_link) 
 
@@ -32,7 +26,7 @@ An interactive **Excel-based dashboard** for analyzing HR data of current and fo
 
 ## 🏁 Getting Started
 1. Clone or download this repository  
-2. Open `HR_Analytics_Dashboard.xlsx` in Microsoft Excel  
+2. Open `project phoenix.xlsx` in Microsoft Excel  
 3. Explore the dashboard using filters and charts  
 
 ---
