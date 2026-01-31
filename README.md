@@ -27,10 +27,6 @@ An interactive **Excel-based dashboard** for analyzing HR data of current and fo
 
 ## 📸 Screenshots
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Attrition Analysis
-![Attrition Analysis](screenshots/attrition_analysis.png)
 
 ---
 
