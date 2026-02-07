@@ -19,6 +19,13 @@ An interactive **Excel-based dashboard** for analyzing HR data of current and fo
 
 ---
 
+### Screenshots
+<img width="1366" height="768" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/9d320235-abae-4704-860f-052b19cc0afa" />
+<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/5427673b-38ee-45a7-8592-034a70f338ef" /> 
+
+
+---
+
 ### Dashboard Overview
 [https://drive.google.com/drive/folders/1M2kyILBw8qTw8cJqmiMPBkeLYFsw9x3i?usp=drive_link](https://drive.google.com/drive/folders/1M2kyILBw8qTw8cJqmiMPBkeLYFsw9x3i?usp=drive_link) 
 
